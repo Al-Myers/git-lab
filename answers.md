@@ -60,5 +60,31 @@ Date:   Tue Sep 6 15:33:34 2022 -0400
     Initial commit
 
 Anwser 9.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Anwser 10.
+No, because the README.md on the computer is seperate than the README.md on github
+
+Anwser 11.
+Authenticated to github.com ([140.82.113.3]:22).
+Transferred: sent 2204, received 2576 bytes, in 0.1 seconds
+Bytes per second: sent 15435.0, received 18040.2
+To github.com:al-myers/git-lab.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'git@github.com:al-myers/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Anwser 12.
+Yes they were.
+
+Anwser 13.
+. .. git-lab-2
+
+
 
 
